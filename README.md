@@ -46,7 +46,7 @@ sectors VARCHAR(200) NOT  NULL,\
 industries VARCHAR(200) NOT NULL,\
 followers INT NOT NULL,\
 analysts INT NOT NULL,\
-PRIMARY KEY (c_id))\)```
+PRIMARY KEY (c_id))\)'''
 
 
 
