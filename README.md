@@ -54,12 +54,7 @@ PRIMARY KEY (c_id))\)
 <img width="956" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/2ad2dfee-a23f-4931-bc49-a38484b462ba">
 
 ### Main Steps:
-* Get a random values for light sleep and heavy sleep
-* Login to the Estimize Website via Selenium
-* Loop through the ticker list and pull the company info
-* Loop through the ticker list and pull the EPS Table info
-* Loop through the ticker list and the quarter list and
-          pull the eps analyst data
+
 <img width="492" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/0f6e84bc-cec4-4fd1-b47a-32400d2f7b87">
 
 
