@@ -24,7 +24,7 @@ After that, we created tables for each of the following:
 * Analyst info (eps_analyst_info)
 
 ``` import pymysql
-# Create a connection object
+#Create a connection object
 conn = pyml.connect(host='127.0.0.1', port=3306, user='', passwd='',autocommit=True)
 cur = conn.cursor()
 
