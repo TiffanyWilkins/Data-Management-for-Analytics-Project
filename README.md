@@ -80,6 +80,12 @@ def rand_hvy_sleep():
     time.sleep(timer)
 
 ```
+#### Data Warehousing
+We assigned a folder of a code for parsing through the collected files via beautifulsoup.
+ Each set of collected files for the Company Info and the EPS Info (all in HTML) are parsed and loaded into a pandas dataframe. 
+Then the dataframes are saved into the DB as entries into their respective tables.
+<img width="1073" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/21d6ac53-2906-4c32-9fef-c9e419b2ce70">
+
 <img width="502" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/24c1878a-3444-4663-baf9-479bf5c0bc41">
 
 
