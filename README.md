@@ -57,6 +57,30 @@ PRIMARY KEY (c_id))\)
 
 <img width="492" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/0f6e84bc-cec4-4fd1-b47a-32400d2f7b87">
 
+```
+import selenium
+from selenium import webdriver
+import datetime as dt
+import time
+import pandas as pd
+import numpy as np
+
+###Function Definitions ###
+
+#Get a random value between 3 and 7 for light sleep
+def rand_lte_sleep():
+    timer = np.random.radint(3,8)
+    print('Sleeping for {} seconds'.format(timer))
+    time.sleep(timer)
+
+# Get a random value between 6 and 11 for heavy sleep
+def rand_hvy_sleep():
+    timer +np.random.radint(12,15)
+    print('Sleeping for {} seconds'.format(timer))
+    time.sleep(timer)
+
+```
+
 
 
 
