@@ -80,6 +80,8 @@ def rand_hvy_sleep():
     time.sleep(timer)
 
 ```
+<img width="502" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/24c1878a-3444-4663-baf9-479bf5c0bc41">
+
 
 
 
