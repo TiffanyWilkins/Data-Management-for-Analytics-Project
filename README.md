@@ -50,6 +50,11 @@ PRIMARY KEY (c_id))\)
 ```
 
 #### DATASCRAPPING
+* Next , scraping the Company Information, EPS Information, and the EPS Analyst Table from the Estimize website.
+ It uses Selenium by first logging into the Estimize website and then scraping the information from the website.
+ It then saves the information into HTML Files for each of the 3 types of information.
+<img width="956" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/2ad2dfee-a23f-4931-bc49-a38484b462ba">
+
 
 
 
