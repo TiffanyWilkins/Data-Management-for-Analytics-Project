@@ -49,7 +49,7 @@ analysts INT NOT NULL,\
 PRIMARY KEY (c_id))\)
 ```
 
-#### WEBSCRAPPING
+#### DATASCRAPPING
 
 
 
