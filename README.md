@@ -49,7 +49,7 @@ analysts INT NOT NULL,\
 PRIMARY KEY (c_id))\)
 ```
 
-#### Data Scrapping<img width="253" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/8a01193a-4b8a-49bb-bd86-08b67fb39f96">
+src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/8a01193a-4b8a-49bb-bd86-08b67fb39f96">
 
 
 
