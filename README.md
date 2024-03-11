@@ -28,6 +28,27 @@ After that, we created tables for each of the following:
 conn = pyml.connect(host='127.0.0.1', port=3306, user='', passwd='',autocommit=True)
 cur = conn.cursor()
 
+# Drop database ESTIMIZE DB
+cur.execute("DROP DATABASE IF EXISTS msa_estimize_db")
+
+# Create the ESTIMIZE DB if not exists
+cur.execute("DROP TABLE IF EXISTS msa_estimize_db.company_info")
+cur.execute("DROP TABLE IF EXISTS msa_estimize_db.eps_info")
+cur.execute("DROP TABLE IF EXISTS msa_estimize_db.eps_analyst_info")
+cur.execute("DROP TABLE IF EXISTS msa_estimize_db.analyst_info")
+
+# Create a table for Company Information: company_info
+cur.execute("CREATE TABLE IF NOT EXISTS msa_estimize_db.company_info (\
+c_id INT UNIQUE NOT NULL AUTO_INCREMENT,\
+ticker VARCHAR(25) NOT NULL,\
+company_name VARCHAR(100) NOT NULL,\
+sectors VARCHAR(200) NOT  NULL,\
+industries VARCHAR(200) NOT NULL,\
+followers INT NOT NULL,\
+analysts INT NOT NULL,\
+PRIMARY KEY (c_id))\
+)```
+
 
 
 
