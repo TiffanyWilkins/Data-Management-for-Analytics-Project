@@ -53,7 +53,7 @@ PRIMARY KEY (c_id))\)
 
 <img width="956" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/2ad2dfee-a23f-4931-bc49-a38484b462ba">
 
-### Main Steps:
+
 
 <img width="492" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/0f6e84bc-cec4-4fd1-b47a-32400d2f7b87">
 
