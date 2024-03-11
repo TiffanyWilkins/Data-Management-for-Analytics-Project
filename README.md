@@ -22,7 +22,7 @@ After that, we created tables for each of the following:
 * Company info (company_info)
 * Company info  (eps_info)
 * Analyst info (eps_analyst_info)
-<img width="1817" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/d7103e53-2eae-4108-ad87-82301a3e199f">
+
 
 
 
