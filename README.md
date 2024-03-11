@@ -11,6 +11,9 @@ Estimize is designed to collect opinions from the widest possible range of contr
 * Quality control and smart consensus
 * Alerts, screening, Excel files
 
+#### Creating Schemas<img width="329" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/52c2dc52-b4dd-4266-b4af-69c92a4c3264">
+
+
 
 
 
