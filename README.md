@@ -6,7 +6,6 @@ Estimize is designed to collect opinions from the widest possible range of contr
 
 
 ###Features include:
-
 *Contribute anonymously
 *Give-to-Get
 *Quality control and smart consensus
