@@ -83,6 +83,11 @@ def rand_hvy_sleep():
 #### Data Warehousing
 
 <img width="1073" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/21d6ac53-2906-4c32-9fef-c9e419b2ce70">
+Loop through all tickers, extract company 
+info from the datafiles, and store in
+ df_COMPANY_INFO table as shown:
+<img width="389" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/8be4c895-24e8-4ae7-81f2-673cf3f90c90">
+
 
 <img width="502" alt="image" src="https://github.com/TiffanyWilkins/Data-Management-for-Analytics-Project/assets/54362628/24c1878a-3444-4663-baf9-479bf5c0bc41">
 
