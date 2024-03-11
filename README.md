@@ -5,7 +5,7 @@ TICKER_LIST={AMZN, AAPL, MSFT, GOOG, TSLA, JNJ, PG, NVDA, CSCO, BABA, HD,BIDU, W
 Estimize is designed to collect opinions from the widest possible range of contributors, while maintaining the highest quality data through advanced behavioral and statistical algorithms.
 
 
-###Features include
+##Features include
 * Contribute anonymously
 * Give-to-Get
 * Quality control and smart consensus
